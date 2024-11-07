@@ -1,4 +1,3 @@
-import React from 'react';
 
 export default function EUFunding() {
   return (
@@ -31,6 +30,12 @@ export default function EUFunding() {
             dirbtiniu intelektu paremtą skaitmeninę platformą, kuri padės mažų vaikų (2-6 metų) tėvams rasti įtraukiančias 
             ir lavinančias veiklas, pritaikytas būtent jų vaikui.
           </p>
+
+            <p>2024-09-30</p>
+
+            <p>
+              Daugiau informacijos: <a href="www.esinvesticijos.lt" target="_blank">www.esinvesticijos.lt</a>
+            </p>
         </div>
       </div>
     </div>

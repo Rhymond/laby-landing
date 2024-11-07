@@ -1,9 +1,8 @@
-import React from 'react';
-import { Brain, Sparkles, Target, Clock, Star, Rocket } from 'lucide-react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Feature from './components/Feature';
+import { Brain, Clock, Target } from 'lucide-react';
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import EUFunding from './components/EUFunding';
+import Feature from './components/Feature';
+import Navbar from './components/Navbar';
 
 function HomePage() {
   return (

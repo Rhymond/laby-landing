@@ -27,7 +27,7 @@ export default function EUFunding() {
           <p className="mb-6">
             MB Laby Studio pradėjo įgyvendinti projektą „LABY sprendimo pagrįsto dirbtinio intelekto technologija sukūrimas", 
             projekto kodas Nr. 02-018-K-0293. Projekto vertė – 89 955,21 Eur, bendrovei suteikta iki 71 631,33 Eur 
-            Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos kartos Lietuva“ lėšos. Projekto įgyvendinimo terminas – nuo 2024-09-25 iki 2025-09-30.
+            Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos kartos Lietuva“ finansavimo lėšų. Projekto įgyvendinimo terminas – nuo 2024-09-25 iki 2025-09-30.
           </p>
 
           <p>
